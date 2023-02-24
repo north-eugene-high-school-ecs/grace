@@ -1,0 +1,26 @@
+img {
+  border-style: dotted;
+  border-wdith: 5px;
+  margin: 70px;
+}
+
+p {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: Green;
+  font-family: Palatino, Serif;
+}
+
+h2 {
+  color: DeepPink;
+  font-family: "Courier New", monospace;
+}
+
+p.fancy {
+  border-style: solid;
+  border-color: Orange;
+  color: LightYellow;
+}
+  
